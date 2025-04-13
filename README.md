@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 20-year-old CSE student passionate about application development<br>🚀 Currently building a flashcard SaaS app to revolutionize learning<br>💻 Striving to become proficient in all aspects of web development<br>🎨 Enthusiast for design and creating visually appealing interfaces<br>🌱 Constantly expanding my tech stack with cutting-edge tools and frameworks<br>💡 Believe in blending functionality with aesthetics in every project<br>📫 [Check out my portfolio](https://padhisneha.github.io/portfolio/)
+🎓 CSE student passionate about application development<br>🚀 Currently building a flashcard SaaS app to revolutionize learning<br>💻 Striving to become proficient in all aspects of web development<br>🎨 Enthusiast for design and creating visually appealing interfaces<br>🌱 Constantly expanding my tech stack with cutting-edge tools and frameworks<br>💡 Believe in blending functionality with aesthetics in every project<br>📫 [Check out my portfolio](https://padhisneha.github.io/portfolio/)
 
 
 ## 🌐 Socials:
